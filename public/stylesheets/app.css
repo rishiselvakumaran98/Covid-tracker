@@ -63,7 +63,11 @@ i.icon{
 }
 
 .jumbotron{
-	background-image: url('../triangles-download\ (1).png');
+	background-image: url(https://img.freepik.com/free-photo/blurred-interior-hospital-clinical-with-people-abstract-medical-background_1484-1309.jpg?size=626&ext=jpg);
+	text-align: center;
+	text-shadow: black 1px 1px;
+	color:rgb(255, 255, 255);
+	font-weight: bolder;
 }
 
 .container{
@@ -89,5 +93,5 @@ The control below is for the menu bar
 	}
 
 .navbar-pills { 
-	color: green;
+	color: rgb(130, 17, 196);
 }
